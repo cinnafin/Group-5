@@ -1,0 +1,18 @@
+# Ignore all CSV files inside data folder
+data/*.csv
+
+# Ignore virtual environment
+venv/
+
+# Mac system files
+.DS_Store
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
