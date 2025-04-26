@@ -49,14 +49,15 @@ Sourced from: [Chicago Crimes Dataset on Kaggle](https://www.kaggle.com/datasets
 
 # Data Files
 
-The original `.csv` datasets are too large to store directly on GitHub (GitHub limits files to 100MB).
+The original `.csv` datasets are too large to store directly on GitHub .
 
 ✅ You can download them here:
-
-- [ChicagoCrime_2001-2024_Cleaned.csv](YOUR_GOOGLE_DRIVE_LINK)
-- [CleanedCrime.csv](YOUR_GOOGLE_DRIVE_LINK)
-- [Crimes_-_2001_to_Present.csv](YOUR_GOOGLE_DRIVE_LINK)
-- [Sample1_encoded.csv](YOUR_GOOGLE_DRIVE_LINK)
+https://drive.google.com/file/d/1AD90L_SZ2wPqx2Ax40A5if75Xd3wJdK8/view?usp=sharing
+- [ChicagoCrime_2001-2024_Cleaned.csv]
+- [CleanedCrime.csv]
+- [Crimes_-_2001_to_Present.csv]
+- [Sample1_encoded.csv]
+  
 
 After downloading, please place them into the `data/` folder.
 
