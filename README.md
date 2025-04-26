@@ -47,4 +47,22 @@ This research may also be extended for use in public safety planning, urban deve
 ## Dataset
 Sourced from: [Chicago Crimes Dataset on Kaggle](https://www.kaggle.com/datasets/utkarshx27/crimes-2001-to-present)
 
+# Data Files
+
+The original `.csv` datasets are too large to store directly on GitHub (GitHub limits files to 100MB).
+
+✅ You can download them here:
+
+- [ChicagoCrime_2001-2024_Cleaned.csv](YOUR_GOOGLE_DRIVE_LINK)
+- [CleanedCrime.csv](YOUR_GOOGLE_DRIVE_LINK)
+- [Crimes_-_2001_to_Present.csv](YOUR_GOOGLE_DRIVE_LINK)
+- [Sample1_encoded.csv](YOUR_GOOGLE_DRIVE_LINK)
+
+After downloading, please place them into the `data/` folder.
+
+---
+
+**Note:** Only the zipped versions or summaries are available here.
+
+
 
