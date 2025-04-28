@@ -17,9 +17,16 @@ Using Python, Tableau, Alteryx, and various machine learning techniques, we expl
 - How does crime vary by time of day?
 - Can we predict the likely location of a crime based on its type?
 
-**Key Findings:**
-- 
 
+## Key Findings:
+- Crime Hot Spots: We identified consistent crime hot spots concentrated in specific neighborhoods such as West Garfield Park, Englewood, and Austin. Hotspots showed some shifting patterns over decades, but certain areas remained persistently high-crime zones.
+- Seasonality: Crime rates peaked during the summer months (June–August) across almost all years, with seasonal decompositions revealing a strong, repeatable pattern year over year.
+- Arrest Rates: Arrest rates varied significantly by district, with some districts consistently outperforming others. Factors such as crime type and local policies likely influenced these differences.
+- Location and Type Correlation: Property crimes like burglary were more geographically widespread, while violent crimes were heavily concentrated in fewer neighborhoods.
+- Time of Day Patterns: Violent crimes, such as assaults and robberies, were more likely to occur late at night, while theft-related crimes peaked during the afternoon.
+- **Predictive Modeling:** Using machine learning models, we achieved moderate success in predicting the likely amount of crimes for a month in a location (zipcode,ward)
+
+  
 ## Application of Knowledge
 The insights gleaned through this project are intended to assist law enforcement in:
 - Strategically deploying patrols based on crime hot spots and time-based patterns.
