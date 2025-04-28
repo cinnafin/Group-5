@@ -31,6 +31,7 @@ This research may also be extended for use in public safety planning, urban deve
 
 ## Video Demonstration
 [Watch the video demonstration of our project here]
+https://youtu.be/SQkmBg0WSCI
 
 ## Final Project Paper
 [Read the full project report here]
