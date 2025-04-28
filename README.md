@@ -41,7 +41,8 @@ This research may also be extended for use in public safety planning, urban deve
 https://youtu.be/SQkmBg0WSCI
 
 ## Final Project Paper
-[Read the full project report here]
+[Final Project Report (PDF)](Group5_ChicagoCrimeAnalysis_Part4.pdf)
+
 
 ## Tools and Technologies Used
 - Python (Pandas, NumPy, Matplotlib)
