@@ -8,6 +8,8 @@
 This project presents a data-driven approach to understanding crime patterns in Chicago from 2001 to 2023. By analyzing over 7 million reported crimes sourced from the Chicago Police Department, we examine spatial, temporal, and categorical crime trends. 
 Using Python, Tableau, Alteryx, and various machine learning techniques, we explored how crime distribution changes over time, across geography, and in relation to arrest rates. Our analysis integrates visualization, clustering, and predictive modeling to gain deeper insights into crime behavior in Chicago.
 
+-crime_ward2.py is the script to run the prediction model.
+
 ## Research Questions and Key Findings
 **Questions Explored:**
 - Where are the crime "hot spots" in Chicago, and how have they shifted over time?
